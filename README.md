@@ -3,7 +3,27 @@
 <a href="https://da.gd/aditya"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
 <details>
-  <summary><b>Contribution Graph</b></summary>
+  <summary><b>Git Streak</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://da.gd/aditya"> <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=realnub&theme=tokyonight&border=156CDDD)" </a>
+  </p>
+</details>
+
+<a href="https://da.gd/aditya"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
+
+<details>
+  <summary><b>Git Stats</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://da.gd/aditya"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=realnub&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Git+Stats" /> </a>
+  </p>
+</details>
+    
+<a href="https://da.gd/aditya"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
+
+<details>
+  <summary><b>Commit Graph</b></summary>
   <br>
   <p align="center">
     <a href="https://da.gd/aditya">
@@ -15,25 +35,6 @@
 
 <a href="https://da.gd/aditya"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
-<details>
-  <summary><b>Github Stats</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://da.gd/aditya"> <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=realnub&theme=tokyonight&border=156CDDD)" </a>
-  </p>
-</details>
-
-<a href="https://da.gd/aditya"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
-
-<details>
-  <summary><b>Current Streak</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://da.gd/aditya"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=realnub&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats" /> </a>
-  </p>
-</details>
-    
-<a href="https://da.gd/aditya"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 <details>
   <summary><b>About Me </b></summary>
   <br>
