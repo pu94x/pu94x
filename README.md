@@ -6,7 +6,7 @@
   <summary><b>Git Streak</b></summary>
   <br>
   <p align="center">
-    <a href="https://da.gd/aditya"> <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=realnub&theme=tokyonight&border=156CDDD)" </a>
+    <a href="https://da.gd/aditya"> <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=pu94x&theme=tokyonight&border=156CDDD)" </a>
   </p>
 </details>
 
@@ -16,7 +16,7 @@
   <summary><b>Git Stats</b></summary>
   <br>
   <p align="center">
-    <a href="https://da.gd/aditya"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=realnub&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Git+Stats" /> </a>
+    <a href="https://da.gd/aditya"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pu94x&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Git+Stats" /> </a>
   </p>
 </details>
     
@@ -27,7 +27,7 @@
   <br>
   <p align="center">
     <a href="https://da.gd/aditya">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=realnub&custom_title=Contribution+Graph&theme=react-dark&area=true" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=pu94x&custom_title=Contribution+Graph&theme=react-dark&area=true" />
     </a>
     <br>
   </p>
