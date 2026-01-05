@@ -18,7 +18,7 @@
 
 <a href="https://adityaprasad.eu.org"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
-<p align="center"> Copyright © 2020 - 2025 <br>
+<p align="center"> Copyright © 2020 - 2026 <br>
 	<br>
 	<a href="https://adityaprasad.eu.org"><img alt="Hits" src="https://da.gd/track0"/>
 	</a>
