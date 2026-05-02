@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=PixelifySans"  width="1080" alt="Quote" /> 
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight"  width="1080" alt="Quote" /> 
 
 ---
 
