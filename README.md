@@ -1,17 +1,7 @@
-# Hey there 👋, I'm Pu94X!
+# pu94x <img src="https://da.gd/track0" alt="tracker" width="50" />
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="1080" alt="Hello world" />
+**an alternate perspective.**
 
----
+somewhere between thinking & crafting.
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight"  width="1080" alt="Quote" /> 
-
----
-
-<sup>🔭 This is the only alt account of [@adityaprasad502](https://github.com/adityaprasad502) | <a href="https://a.devh.in" rel="nofollow">
-  <img src="https://da.gd/track0" alt="tracker" width="72" />
-</a> </sup>
-</div>
-
-<!-- Inspired from https://github.com/sagar-viradiya -->
+> This is the only alt account of <a href="https://github.com/adityaprasad502">@adityaprasad502</a>
